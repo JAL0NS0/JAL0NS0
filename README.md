@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### Sobre mí
+Soy un apasionado programador Junior con un enfoque sólido en el desarrollo backend y habilidades competentes en frontend. 
+Mi fascinación por la resolución de problemas desafiantes e implementación de algoritmos me ha impulsado a explorar y aprender de manera continua en el mundo de la tecnología.
 <!--
 **JAL0NS0/JAL0NS0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
