@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Ingeniero en Sistemas<br>📚 Universidad Galileo, Guatemala<br>🎯 En busca de retos<br>🎲 Fanático de juegos de mesa</p>
+<p align="left">✨ <br>🤖 Desarrolador de herramientas con AI<br>Ingeniero en Sistemas<br>📚 Universidad Galileo, Guatemala<br>🎯 En busca de retos<br>🎲 Fanático de juegos de mesa</p>
 
 ###
 
